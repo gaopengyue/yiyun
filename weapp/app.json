@@ -1,0 +1,37 @@
+{
+    "pages": [
+        "pages/tab/index",
+        "pages/tab/science",
+        "pages/tab/mine"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#999",
+        "selectedColor": "#000",
+        "list": [
+            {
+                "pagePath": "pages/tab/index",
+                "text": "11",
+                "iconPath": "public/images/home.png",
+                "selectedIconPath": "public/images/home_select.png"
+            },
+            {
+                "pagePath": "pages/tab/science",
+                "text": "22",
+                "iconPath": "public/images/home.png",
+                "selectedIconPath": "public/images/home_select.png"
+            },
+            {
+                "pagePath": "pages/tab/mine",
+                "text": "33",
+                "iconPath": "public/images/home.png",
+                "selectedIconPath": "public/images/home_select.png"
+            }
+        ]
+    }
+}

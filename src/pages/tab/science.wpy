@@ -1,0 +1,35 @@
+<style lang="less">
+  
+</style>
+
+<template>
+  <div>123123</div>  
+</template>
+
+<script>
+  import wepy from '@wepy/core'
+
+  wepy.page({
+    // hooks: {},
+    // mixins: [testMixin],
+    // computed: {},
+
+    data: {
+      
+    },
+
+
+    methods: {
+      
+    },
+
+    created () {
+      
+    }
+  });
+</script>
+<config>
+{
+    navigationBarTitleText: 'science'
+}
+</config>
